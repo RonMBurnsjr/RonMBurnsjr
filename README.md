@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Ron
+**Hello I am Ron!**
 
+Portfolio of projects I have worked on
 
 <!---
 RonMBurnsjr/RonMBurnsjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
